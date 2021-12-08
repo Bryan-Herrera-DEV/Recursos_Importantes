@@ -6,3 +6,22 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
   - Pagina para crear border radius muy preciso y a medida
 - [Swiper.js](https://swiperjs.com/demos#navigation)
   - La mejor libreria de sliders que he encontrado, tiene ejemplos y todo   
+- [chart.js](https://www.chartjs.org/docs/latest/samples/area/radar.html)
+  - Para hacer charts muy epicos
+- [stycky.js](http://stickyjs.com/)
+  - Hace que determinado momento un elemento se quede sticky
+- []()
+  -
+- []()
+  -
+- []()
+  -
+- []()
+  -
+
+
+
+
+
+
+
