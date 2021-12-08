@@ -20,27 +20,27 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
   - sirve para generar paletas de colores
   
   <br>
-https://css-grid.netlify.app/?pg=1 			=== CSS GRID GENERATOR
-https://omatsuri.app/ 					=== de todo un poco(paleta de colores, triangle generators, page dividers, etc)
-loading.io 						=== de todo un poco( ruta: /flexbox), rutas interesantes de esta: https://loading.io/background/m-wave/ -- 
-https://svgwave.in/ 					=== Para crear hondulaciones con svg
-https://neumorphism.io/#e0e0e0				=== para generar cuadros neumorphism
-https://glassmorphism.com/				=== para generar glassmorphism
-https://bennettfeely.com/clippy/
-https://bennettfeely.com/csspiechart/
-https://bennettfeely.com/scales/
-https://animista.net/					=== animaciones
-https://tympanus.net/Development/AnimatedSVGIcons/ 	=== svg animados
+https://css-grid.netlify.app/?pg=1 			=== CSS GRID GENERATOR <br>
+https://omatsuri.app/ 					=== de todo un poco(paleta de colores, triangle generators, page dividers, etc) <br>
+loading.io 						=== de todo un poco( ruta: /flexbox), rutas interesantes de esta: https://loading.io/background/m-wave/ -- <br>
+https://svgwave.in/ 					=== Para crear hondulaciones con svg <br>
+https://neumorphism.io/#e0e0e0				=== para generar cuadros neumorphism <br>
+https://glassmorphism.com/				=== para generar glassmorphism <br>
+https://bennettfeely.com/clippy/ <br>
+https://bennettfeely.com/csspiechart/ <br>
+https://bennettfeely.com/scales/ <br>
+https://animista.net/					=== animaciones <br>
+https://tympanus.net/Development/AnimatedSVGIcons/ 	=== svg animados <br>
 
-================ LIBRERIAS =================
-http://ianlunn.github.io/Hover/				=== PARA HOVER EN BOTONES
-http://maxwellito.github.io/vivus/			=== animar svg con libreria
-https://treast.github.io/puffin.js/examples/		=== hover increible sobre imagen(la rompe)
-https://barba.js.org/					=== Crea transiciones fluidas y suaves increíbles entre las páginas de su sitio web.
-http://git.blivesta.com/animsition/			=== para transiciones entre pagnas prediseñadas
-https://alvarotrigo.com/fullPage/			=== smooth scroll
+================ LIBRERIAS ================= <br>
+http://ianlunn.github.io/Hover/				=== PARA HOVER EN BOTONES <br>
+http://maxwellito.github.io/vivus/			=== animar svg con libreria <br>
+https://treast.github.io/puffin.js/examples/		=== hover increible sobre imagen(la rompe <br>
+https://barba.js.org/					=== Crea transiciones fluidas y suaves increíbles entre las páginas de su sitio web. <br>
+http://git.blivesta.com/animsition/			=== para transiciones entre pagnas prediseñadas <br>
+https://alvarotrigo.com/fullPage/			=== smooth scroll <br>
 
-https://github.com/purifycss/purifycss			=== limpiar css
+https://github.com/purifycss/purifycss			=== limpiar css <br>
 +593 97 906 0867
 
 
