@@ -10,8 +10,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
   - Para hacer charts muy epicos
 - [stycky.js](http://stickyjs.com/)
   - Hace que determinado momento un elemento se quede sticky
-- []()
-  -
+- [noty.js](https://ned.im/noty/v2/api.html)
+  - Sirve para crear varios tipos de notificaciones 
 - []()
   -
 - []()
