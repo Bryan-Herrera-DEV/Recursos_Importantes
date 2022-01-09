@@ -7,7 +7,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 - [undraw illustrations](https://undraw.co/illustrations)
 - [ira design illustrations](https://iradesign.io/illustrations)
 - [drawkit](https://drawkit.com/)
-
+- [ManyPixels](https://www.manypixels.co/gallery)
+- [pixelTrue](https://www.pixeltrue.com/free-illustrations)
 
 <hr>
 
