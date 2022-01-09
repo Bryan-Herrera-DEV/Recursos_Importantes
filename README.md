@@ -1,6 +1,17 @@
 # Recursos_Importantes
 Librerias que Podria usar, o links, o lo que sea que en general me ayude a programar
 <hr>
+## Para imagenes
+
+- [storyset](https://storyset.com/)
+- [undraw illustrations](https://undraw.co/illustrations)
+- [ira design illustrations](https://iradesign.io/illustrations)
+- [drawkit](https://drawkit.com/)
+
+
+<hr>
+
+## Librerias de codigo
 
 - [9elemets](https://9elements.github.io/fancy-border-radius/full-control.html)
   - Pagina para crear border radius muy preciso y a medida
