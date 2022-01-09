@@ -18,9 +18,10 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
   - Sirve para crear metatags en redes sociales
 - [colors](https://coolors.co/generate)
   - sirve para generar paletas de colores
-  
-  <br>
-https://css-grid.netlify.app/?pg=1 			=== CSS GRID GENERATOR <br>
+- [grid generator](https://css-grid.netlify.app/?pg=1)
+  - Sirve para generar grids de manera automatica
+ 
+ 
 https://omatsuri.app/ 					=== de todo un poco(paleta de colores, triangle generators, page dividers, etc) <br>
 loading.io 						=== de todo un poco( ruta: /flexbox), rutas interesantes de esta: https://loading.io/background/m-wave/ -- <br>
 https://svgwave.in/ 					=== Para crear hondulaciones con svg <br>
