@@ -54,7 +54,7 @@ http://git.blivesta.com/animsition/			=== para transiciones entre pagnas predise
 https://alvarotrigo.com/fullPage/			=== smooth scroll <br>
 
 https://github.com/purifycss/purifycss			=== limpiar css <br>
-+593 97 906 0867
+
 
 
 
