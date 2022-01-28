@@ -32,7 +32,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
   - sirve para generar paletas de colores
 - [grid generator](https://css-grid.netlify.app/?pg=1)
   - Sirve para generar grids de manera automatica
- 
+- [Hover en botones](http://ianlunn.github.io/Hover/)
+  - Tiene recursos ya creados para hover espectaculares
  
 https://omatsuri.app/ 					=== de todo un poco(paleta de colores, triangle generators, page dividers, etc) <br>
 loading.io 						=== de todo un poco( ruta: /flexbox), rutas interesantes de esta: https://loading.io/background/m-wave/ -- <br>
@@ -46,7 +47,7 @@ https://animista.net/					=== animaciones <br>
 https://tympanus.net/Development/AnimatedSVGIcons/ 	=== svg animados <br>
 
 ================ LIBRERIAS ================= <br>
-http://ianlunn.github.io/Hover/				=== PARA HOVER EN BOTONES <br>
+		=== PARA HOVER EN BOTONES <br>
 http://maxwellito.github.io/vivus/			=== animar svg con libreria <br>
 https://treast.github.io/puffin.js/examples/		=== hover increible sobre imagen(la rompe <br>
 https://barba.js.org/					=== Crea transiciones fluidas y suaves increíbles entre las páginas de su sitio web. <br>
