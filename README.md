@@ -5,6 +5,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 ## Herramientas varias
 - [quicktype](https://app.quicktype.io/)
 	- Sirve para generear interfaces de mi codigo automaticamente a partir de mi json
+- [https://www.favicon-generator](https://www.favicon-generator.org/)
+	- sirve para generar icons de mis paginas web
 ## Para imagenes
 
 - [storyset](https://storyset.com/)
