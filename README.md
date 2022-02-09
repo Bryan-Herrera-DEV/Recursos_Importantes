@@ -21,7 +21,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 <hr>
 
 ## Librerias de codigo
-
+- [ngx-avatar](https://www.npmjs.com/package/ngx-avatar)
+	- es para crear las imagenes de avatar
 - [9elemets](https://9elements.github.io/fancy-border-radius/full-control.html)
   - Pagina para crear border radius muy preciso y a medida
 - [Swiper.js](https://swiperjs.com/demos#navigation)
