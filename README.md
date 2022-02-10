@@ -66,18 +66,3 @@ https://alvarotrigo.com/fullPage/			=== smooth scroll <br>
 https://github.com/purifycss/purifycss			=== limpiar css <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
