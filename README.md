@@ -44,6 +44,7 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 - [Hover en botones](http://ianlunn.github.io/Hover/)
   - Tiene recursos ya creados para hover espectaculares
  
+https://uigradients.com/				=== para gradientes
 https://omatsuri.app/ 					=== de todo un poco(paleta de colores, triangle generators, page dividers, etc) <br>
 loading.io 						=== de todo un poco( ruta: /flexbox), rutas interesantes de esta: https://loading.io/background/m-wave/ -- <br>
 https://svgwave.in/ 					=== Para crear hondulaciones con svg <br>
