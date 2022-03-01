@@ -9,6 +9,9 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 	- sirve para generar icons de mis paginas web
 - [metatags](https://metatags.io/)
 	- Genera meta tags
+- [carbon](https://carbon.now.sh/)
+	- Para generar imagenes de mi codigo
+	
 ## Para imagenes
 
 - [storyset](https://storyset.com/)
