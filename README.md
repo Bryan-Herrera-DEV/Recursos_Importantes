@@ -11,7 +11,7 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 	- Genera meta tags
 - [carbon](https://carbon.now.sh/)
 	- Para generar imagenes de mi codigo
-- [keygen](https://www.dashlane.com/features/password-generator)
+- [keygen](https://keygen.io/#fakeLink)
 	- Generar contraseñas seguras
 	
 ## Para imagenes
