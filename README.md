@@ -15,6 +15,7 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 	- Generar contraseñas seguras
 ## para regex
 http://w3.unpocodetodo.info/utiles/regex.php -- algunas expresione sutiles
+http://w3.unpocodetodo.info/utiles/regex-ejemplos.php?type=email -- validar un email
 
 
 ## Para imagenes
