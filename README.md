@@ -13,6 +13,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 	- Para generar imagenes de mi codigo
 - [keygen](https://keygen.io/#fakeLink)
 	- Generar contraseñas seguras
+- [lordicon](https://lordicon.com/)
+	- Para iconos animados gratis
 ## para regex
 http://w3.unpocodetodo.info/utiles/regex.php -- algunas expresione sutiles
 http://w3.unpocodetodo.info/utiles/regex-ejemplos.php?type=email -- validar un email
