@@ -61,13 +61,13 @@ loading.io 						=== de todo un poco( ruta: /flexbox), rutas interesantes de est
 https://svgwave.in/ 					=== Para crear hondulaciones con svg <br>
 https://neumorphism.io/#e0e0e0				=== para generar cuadros neumorphism <br>
 https://glassmorphism.com/				=== para generar glassmorphism <br>
-https://bennettfeely.com/clippy/ <br>
+https://bennettfeely.com/clippy/ <br>			=== para crear css de recorte en imagenes 
 https://bennettfeely.com/csspiechart/ <br>
 https://bennettfeely.com/scales/ <br>
 https://animista.net/					=== animaciones <br>
 https://tympanus.net/Development/AnimatedSVGIcons/ 	=== svg animados <br>
 
-================ LIBRERIAS ================= <br>
+================ LIBRERIAS Javascript================= <br>
 		=== PARA HOVER EN BOTONES <br>
 http://maxwellito.github.io/vivus/			=== animar svg con libreria <br>
 https://treast.github.io/puffin.js/examples/		=== hover increible sobre imagen(la rompe <br>
