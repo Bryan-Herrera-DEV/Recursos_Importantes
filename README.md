@@ -15,6 +15,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 	- Generar contraseñas seguras
 - [lordicon](https://lordicon.com/)
 	- Para iconos animados gratis
+- [mockaroo](https://www.mockaroo.com)
+	- Sitio para generar datos de prueba masivos en varios formatos
 ## para regex
 http://w3.unpocodetodo.info/utiles/regex.php -- algunas expresione sutiles
 http://w3.unpocodetodo.info/utiles/regex-ejemplos.php?type=email -- validar un email
