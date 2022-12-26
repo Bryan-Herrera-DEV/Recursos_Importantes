@@ -3,6 +3,8 @@ Librerias que Podria usar, o links, o lo que sea que en general me ayude a progr
 <hr>
 
 ## Herramientas varias
+- [tabñer Icons](https://tablericons.com)
+	- Iconos bonitos y te los copia en svg
 - [quicktype](https://app.quicktype.io/)
 	- Sirve para generear interfaces de mi codigo automaticamente a partir de mi json
 - [favicon-generator](https://www.favicon-generator.org/)
